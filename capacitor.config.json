@@ -1,0 +1,8 @@
+{
+  "appId": "com.revisaoenem.app",
+  "appName": "Revisão Enem",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
